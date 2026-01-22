@@ -1,0 +1,309 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>John Doe | Financial Consultant Advisor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>John Doe</h1>
+      <p class="tagline">Financial Consultant Advisor — Return Filing · Bookkeeping · Litigation Support</p>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section class="intro">
+      <h2>Welcome</h2>
+      <p>I help individuals and businesses achieve financial clarity and compliance through practical, reliable advice. Services include tax return filing, bookkeeping, and litigation support.</p>
+    </section>
+
+    <section class="highlights">
+      <h2>What I Offer</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>Return Filing</h3>
+          <p>Accurate, timely tax return preparation and compliance for individuals and businesses.</p>
+        </div>
+        <div class="card">
+          <h3>Bookkeeping</h3>
+          <p>Daily bookkeeping, reconciliations, and financial statements to keep your records audit-ready.</p>
+        </div>
+        <div class="card">
+          <h3>Litigation Support</h3>
+          <p>Forensic accounting, expert reports, and financial analysis for legal matters.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="testimonials">
+      <h2>Client Testimonials</h2>
+      <div class="cards">
+        <div class="card">
+          <p>"John helped me streamline my tax returns and saved me significant money. Highly recommended!"</p>
+          <p class="author">— Sarah K., Small Business Owner</p>
+        </div>
+        <div class="card">
+          <p>"The bookkeeping services are top‑notch. I now have clear financial records and peace of mind."</p>
+          <p class="author">— Rajesh P., Entrepreneur</p>
+        </div>
+        <div class="card">
+          <p>"John’s litigation support was invaluable in my case. His financial analysis made all the difference."</p>
+          <p class="author">— Anita M., Legal Professional</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <h2>Book a Free Consultation Today</h2>
+      <p>Take the first step toward financial clarity and growth. Contact us to schedule your session.</p>
+      <a class="cta-button" href="contact.html">Get Started</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 John Doe | Financial Consultant Advisor</p>
+    </div>
+  </footer>
+</body>
+</html>
+services.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Services | Financial Consultant Advisor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Services</h1>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section>
+      <h2>Return Filing</h2>
+      <p>Comprehensive tax return preparation and filing for individuals, proprietorships, partnerships, and companies. Services include document review, tax optimization, and compliance checks.</p>
+    </section>
+
+    <section>
+      <h2>Bookkeeping</h2>
+      <p>Accurate bookkeeping tailored to your business: ledger maintenance, bank reconciliations, accounts payable/receivable, and monthly financial statements to support decision-making and audits.</p>
+    </section>
+
+    <section>
+      <h2>Litigation Support</h2>
+      <p>Forensic accounting, damage quantification, expert witness reports, and financial analysis to support disputes, arbitration, and court proceedings.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 John Doe | Financial Consultant Advisor</p>
+    </div>
+  </footer>
+</body>
+</html>
+about.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About | Financial Consultant Advisor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>About Me</h1>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section>
+      <h2>Professional Background</h2>
+      <p>With over 10 years of experience in financial consulting, I specialize in tax compliance, bookkeeping, and litigation support. I work with small businesses, professionals, and legal teams to deliver clear, actionable financial guidance.</p>
+    </section>
+
+    <section>
+      <h2>Qualifications</h2>
+      <ul>
+        <li>Chartered Accountant (or relevant credential)</li>
+        <li>Certified in forensic accounting and tax law</li>
+        <li>10+ years advising businesses across industries</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 John Doe | Financial Consultant Advisor</p>
+    </div>
+  </footer>
+</body>
+</html>
+contact.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact | Financial Consultant Advisor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Contact</h1>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section>
+      <h2>Get in Touch</h2>
+      <p><strong>Email</strong>: johndoe@example.com</p>
+      <p><strong>Phone</strong>: +91 98765 43210</p>
+      <p>Prefer a call or meeting? Mention your preferred time and brief details in your message.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 John Doe | Financial Consultant Advisor</p>
+    </div>
+  </footer>
+</body>
+</html>
+style.css
+:root{
+  --primary:#2c3e50;
+  --accent:#4CAF50;
+  --muted:#f9f9f9;
+  --card:#ffffff;
+  --text:#333;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:Arial,Helvetica,sans-serif;
+  background:var(--muted);
+  color:var(--text);
+  line-height:1.5;
+}
+
+.container{
+  max-width:1000px;
+  margin:0 auto;
+  padding:1rem;
+}
+
+.site-header{
+  background:var(--primary);
+  color:#fff;
+  padding:2rem 0;
+  text-align:center;
+}
+.site-header .tagline{opacity:0.9;margin-top:0.5rem}
+
+.site-nav{
+  background:#34495e;
+}
+.site-nav .container{display:flex;gap:1rem;justify-content:center;align-items:center;padding:0.75rem 1rem}
+.site-nav a{color:#fff;text-decoration:none;font-weight:600}
+.site-nav a:hover{text-decoration:underline}
+
+main{padding:2rem 1rem}
+
+.cards{display:flex;gap:1rem;flex-wrap:wrap}
+.card{
+  background:var(--card);
+  border:1px solid #e6e6e6;
+  border-radius:6px;
+  padding:1rem;
+  flex:1;
+  min-width:240px;
+  box-shadow:0 2px 6px rgba(0,0,0,0.04);
+}
+
+.testimonials .card p{margin:0 0 0.5rem 0}
+.author{font-weight:700;margin-top:0.5rem;color:#555}
+
+.cta{
+  background:var(--accent);
+  color:#fff;
+  text-align:center;
+  padding:2rem 1rem;
+  border-radius:6px;
+  margin-top:2rem;
+}
+.cta-button{
+  display:inline-block;
+  margin-top:1rem;
+  background:#fff;
+  color:var(--accent);
+  padding:0.6rem 1.2rem;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:700;
+}
+.cta-button:hover{background:#333;color:#fff}
+
+.site-footer{
+  background:var(--primary);
+  color:#fff;
+  text-align:center;
+  padding:1rem 0;
+  margin-top:2rem;
+}
+
+/* Responsive */
+@media (max-width:700px){
+  .site-nav .container{flex-direction:column;gap:0.5rem}
+  .cards{flex-direction:column}
+}
+
